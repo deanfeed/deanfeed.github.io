@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>deanfeed</title>
+      <link>https://deanfeed.github.io</link>
+      <description>최근 10 건 on deanfeed</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>아티클</title>
+    <link>https://deanfeed.github.io/articles</link>
+    <guid>https://deanfeed.github.io/articles</guid>
+    <description><![CDATA[ deanfeed의 모든 글을 주제별로 모아 봐요 ]]></description>
+    <pubDate>Sun, 15 Nov 2026 09:58:26 GMT</pubDate>
+  </item><item>
+    <title>시리즈</title>
+    <link>https://deanfeed.github.io/series</link>
+    <guid>https://deanfeed.github.io/series</guid>
+    <description><![CDATA[ 하나의 이야기를 여러 편에 걸쳐 이어 쓴 글 모음 ]]></description>
+    <pubDate>Sun, 15 Nov 2026 09:58:26 GMT</pubDate>
+  </item><item>
+    <title>검색</title>
+    <link>https://deanfeed.github.io/search</link>
+    <guid>https://deanfeed.github.io/search</guid>
+    <description><![CDATA[ deanfeed 검색 ]]></description>
+    <pubDate>Sun, 15 Nov 2026 09:58:26 GMT</pubDate>
+  </item><item>
+    <title>태그 목록</title>
+    <link>https://deanfeed.github.io/tags/</link>
+    <guid>https://deanfeed.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Nov 2026 09:58:26 GMT</pubDate>
+  </item><item>
+    <title>deanfeed</title>
+    <link>https://deanfeed.github.io/</link>
+    <guid>https://deanfeed.github.io/</guid>
+    <description><![CDATA[ deanfeed에 오신 것을 환영합니다. ]]></description>
+    <pubDate>Sat, 14 Nov 2026 13:04:44 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
